@@ -1,0 +1,104 @@
+image	class	path
+'ㄱ.png'	0	 '.korean brailleTraing0ㄱ.png'
+ 'ㄲ.png'	1	 '.korean brailleTraing1ㄲ.png'
+ 'ㄴ.png'	2	 '.korean brailleTraing2ㄴ.png'
+ 'ㄷ.png'	3	 '.korean brailleTraing3ㄷ.png'
+ 'ㄸ.png'	4	 '.korean brailleTraing4ㄸ.png'
+ 'ㄹ.png'	5	 '.korean brailleTraing5ㄹ.png'
+ 'ㅁ.png'	6	 '.korean brailleTraing6ㅁ.png'
+ 'ㅂ.png'	7	 '.korean brailleTraing7ㅂ.png'
+ 'ㅃ.png'	8	 '.korean brailleTraing8ㅃ.png'
+ 'ㅅ.png'	9	 '.korean brailleTraing9ㅅ.png'
+ 'ㅆ.png'	10	 '.korean brailleTraing10ㅆ.png'
+ 'ㅈ.png'	11	 '.korean brailleTraing11ㅈ.png'
+ 'ㅉ.png'	12	 '.korean brailleTraing12ㅉ.png'
+ 'ㅊ.png'	13	 '.korean brailleTraing13ㅊ.png'
+ 'ㅋ.png'	14	 '.korean brailleTraing14ㅋ.png'
+ 'ㅌ.png'	15	 '.korean brailleTraing15ㅌ.png'
+ 'ㅍ.png'	16	 '.korean brailleTraing16ㅍ.png'
+ 'ㅎ.png'	17	 '.korean brailleTraing17ㅎ.png'
+ 'ㄱ_j.png'	18	 '.korean brailleTraing18ㄱ_j.png'
+ 'ㄲ_j.png'	19	 '.korean brailleTraing19ㄲ_j.png'
+ 'ㄳ_j.png'	20	 '.korean brailleTraing20ㄳ_j.png'
+ 'ㄴ_j.png'	21	 '.korean brailleTraing21ㄴ_j.png'
+ 'ㄵ_j.png'	22	 '.korean brailleTraing22ㄵ_j.png'
+ 'ㄶ_j.png'	23	 '.korean brailleTraing23ㄶ_j.png'
+ 'ㄷ_j.png'	24	 '.korean brailleTraing24ㄷ_j.png'
+ 'ㄹ_j.png'	25	 '.korean brailleTraing25ㄹ_j.png'
+ 'ㄺ_j.png'	26	 '.korean brailleTraing26ㄺ_j.png'
+ 'ㄻ_j.png'	27	 '.korean brailleTraing27ㄻ_j.png'
+ 'ㄼ_j.png'	28	 '.korean brailleTraing28ㄼ_j.png'
+ 'ㄽ_j.png'	29	 '.korean brailleTraing29ㄽ_j.png'
+ 'ㄾ_j.png'	30	 '.korean brailleTraing30ㄾ_j.png'
+ 'ㄿ_j.png'	31	 '.korean brailleTraing31ㄿ_j.png'
+ 'ㅀ_j.png'	32	 '.korean brailleTraing32ㅀ_j.png'
+ 'ㅁ_j.png'	33	 '.korean brailleTraing33ㅁ_j.png'
+ 'ㅂ_j.png'	34	 '.korean brailleTraing34ㅂ_j.png'
+ 'ㅄ_j.png'	35	 '.korean brailleTraing35ㅄ_j.png'
+ 'ㅅ_j.png'	36	 '.korean brailleTraing36ㅅ_j.png'
+ 'ㅆ_j.png'	37	 '.korean brailleTraing37ㅆ_j.png'
+ 'ㅇ_j.png'	38	 '.korean brailleTraing38ㅇ_j.png'
+ 'ㅈ_j.png'	39	 '.korean brailleTraing39ㅈ_j.png'
+ 'ㅊ_j.png'	40	 '.korean brailleTraing40ㅊ_j.png'
+ 'ㅋ_j.png'	41	 '.korean brailleTraing41ㅋ_j.png'
+ 'ㅌ_j.png'	42	 '.korean brailleTraing42ㅌ_j.png'
+ 'ㅍ_j.png'	43	 '.korean brailleTraing43ㅍ_j.png'
+ 'ㅎ_j.png'	44	 '.korean brailleTraing44ㅎ_j.png'
+ 'ㅏ.png'	45	 '.korean brailleTraing45ㅏ.png'
+ 'ㅐ.png'	46	 '.korean brailleTraing46ㅐ.png'
+ 'ㅑ.png'	47	 '.korean brailleTraing47ㅑ.png'
+ 'ㅒ.png'	48	 '.korean brailleTraing48ㅒ.png'
+ 'ㅓ.png'	49	 '.korean brailleTraing49ㅓ.png'
+ 'ㅔ.png'	50	 '.korean brailleTraing50ㅔ.png'
+ 'ㅕ.png'	51	 '.korean brailleTraing51ㅕ.png'
+ 'ㅖ.png'	52	 '.korean brailleTraing52ㅖ.png'
+ 'ㅗ.png'	53	 '.korean brailleTraing53ㅗ.png'
+ 'ㅘ.png'	54	 '.korean brailleTraing54ㅘ.png'
+ 'ㅙ.png'	55	 '.korean brailleTraing55ㅙ.png'
+ 'ㅚ.png'	56	 '.korean brailleTraing56ㅚ.png'
+ 'ㅛ.png'	57	 '.korean brailleTraing57ㅛ.png'
+ 'ㅜ.png'	58	 '.korean brailleTraing58ㅜ.png'
+ 'ㅝ.png'	59	 '.korean brailleTraing59ㅝ.png'
+ 'ㅞ.png'	60	 '.korean brailleTraing60ㅞ.png'
+ 'ㅟ.png'	61	 '.korean brailleTraing61ㅟ.png'
+ 'ㅠ.png'	62	 '.korean brailleTraing62ㅠ.png'
+ 'ㅡ.png'	63	 '.korean brailleTraing63ㅡ.png'
+ 'ㅢ.png'	64	 '.korean brailleTraing64ㅢ.png'
+ 'ㅣ.png'	65	 '.korean brailleTraing65ㅣ.png'
+,	66	
+.	67	
+!.png'	68	
+은_y.png'	69	
+ㅆ_y.png'	70	
+옥_y.png'	71	
+'가_y.png'	72	
+'나_y.png'	73	
+'다_y.png'	74	
+'마_y.png'	75	
+'바_y.png'	76	
+'사_y.png'	77	
+'자_y.png'	78	
+'카_y.png'	79	
+'타_y.png'	80	
+'파_y.png'	81	
+'하_y.png'	82	
+'것_y.png'	83	학습이미지 없음 (한컴오피스에서 '것' 점자를 변환하면 약어로 안나오고 'ㄱㅓㅅ'으로 변환됨
+'억_y.png'	84	
+'언_y.png'	85	
+'얼_y.png'	86	
+'연_y.png'	87	
+'영_y.png'	88	
+'온_y.png'	89	
+'옹_y.png'	90	
+'운_y.png'	91	
+'울_y.png'	92	
+'을_y.png'	93	
+'인_y.png'	94	
+'그래서_y.png'	95	
+'그러나_y.png'	96	
+'그러면_y.png'	97	
+'그러므로_y.png'	98	
+'그런데_y.png'	99	
+'그리고_y.png'	100	
+'그리하여_y.png'	101	
+'열_y.png'	102	
